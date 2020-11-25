@@ -1,0 +1,25 @@
+Password! -- Password Not Accepted
+Password must have at least 2 upper case letters.
+Password must have at least 1 digit.
+Password must not have any special characters.
+
+Passw0rD -- Password Accepted
+
+pswd1 -- Password Not Accepted
+Password must be at least 8 characters long.
+Password must have at least 2 upper case letters.
+
+1password! -- Password Not Accepted
+Password must have at least 2 upper case letters.
+Password must not have any special characters.
+
+12345678 -- Password Not Accepted
+Password must have at least 2 upper case letters.
+Password must have at least 2 lower case letters.
+
+G00dpass%wd -- Password Not Accepted
+Password must have at least 2 upper case letters.
+Password must not have any special characters.
+
+Gr8Password -- Password Accepted
+
